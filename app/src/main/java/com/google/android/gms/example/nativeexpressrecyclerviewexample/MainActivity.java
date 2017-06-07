@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements RecItemClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//aasdfsdf
+//git
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
 
         // Use this setting to improve performance if you know that changes
